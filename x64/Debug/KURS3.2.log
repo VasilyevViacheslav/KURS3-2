@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\slava\source\repos\KURS3.2\KURS3.2\Header.h(33,21): warning C4244: =: преобразование "_Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\slava\source\repos\KURS3.2\KURS3.2\Source.cpp(22,17): message : выполняется компиляция ссылки на экземпляр шаблон функции "void MyClass::Solve<int>(std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>>,std::vector<int,std::allocator<int>>)"
+  KURS3.2.vcxproj -> C:\Users\slava\source\repos\KURS3.2\x64\Debug\KURS3.2.exe
